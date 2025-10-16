@@ -21,5 +21,6 @@ Untuk menjalankan program ini pastikan sudah install node js dan npm atau pnpm. 
 Jelaskan apa yang harus dilakukan supaya issue dapat diperbaiki serta branch QA & Development tidak terjadi conflict dan tetap up-to-date terhadap perbaikan issue?
 
 
-## Semua jawaban dengan code ada di masing2 nama folder dan zip, detail ada di file README masing-masing folder
+## Semua jawaban dengan code ada di masing2 nama folder dan zip, detail cara install dan jawaban soal ada di file README masing-masing folder
+
 
